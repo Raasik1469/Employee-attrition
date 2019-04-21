@@ -46,4 +46,8 @@ This dataset seems to be small by today's standards. However, it has allowed us 
 Most of Attributes were good factors in the model. However each attribute can be analysed in depth to find out what really causes heart disease!
 Machine learning has a greater and greater role in health care.
 
+## CLICK TO VIEW FULL CODING  
+      |
+      |
+     \|/
 [Jupyter Notebook](./Heart_Disease_Project_2.ipynb)
