@@ -25,7 +25,7 @@ Database contains 76 attributes, but all published experiments refer to using a 
 
 ## PROJECT ANALYSIS
 | Title| Analysis |
-| ------- | --- | --- | 
+| ---| --- | 
 | Target and Sex Distribution | ![image.png](Image1/heart1.PNG) |
 | Sex Type and Age is associated with Heart Disease | ![image.png](Image1/heart4.png) |
 | What attributes Increases the occurrence of Heart Disease 1 | ![image.png](Image1/heart5.png) ![image.png](Image1/heart6.png) |
@@ -40,5 +40,10 @@ Database contains 76 attributes, but all published experiments refer to using a 
 
 ## AUC_ROC CURVE
 ![image.png](Image1/heart12.png)
+
+## CONCLUSION
+This dataset seems to be small by today's standards. However, it has allowed us to create a simple model and then use various machine learning explain ability tools and techniques to peek inside. 
+Most of Attributes were good factors in the model. However each attribute can be analysed in depth to find out what really causes heart disease!
+Machine learning has a greater and greater role in health care.
 
 [Jupyter Notebook](./Heart_Disease_Project_2.ipynb)
