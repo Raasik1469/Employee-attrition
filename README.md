@@ -1,5 +1,5 @@
 # Heart Disease - Prediction
-![image.png](image1/beating-heart--ecg-graph.jpg)
+![image.png](Image1/beating-heart--ecg-graph.jpg)
 
 ## INTRODUCTION
 Database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to this date. The __"goal"__ field refers to the presence of heart disease in the patient. It is integer valued from __0 (no presence) to 1(presence)__.
@@ -27,9 +27,9 @@ Database contains 76 attributes, but all published experiments refer to using a 
 ## PROJECT ANALYSIS
 | Title| Analysis | Description |
 | --- | --- | --- |
-| Target and Sex Distribution | ![image.png](image1/heart1.png) |
-| Sex Type and Age is associated with Heart Disease | ![image.png](image1/heart2.png) |
-| What attributes Increases the occurrence of Heart Disease| ![image.png](image1/heart3.png) |
+| Target and Sex Distribution | ![Image.png](image1/heart1.png) |
+| Sex Type and Age is associated with Heart Disease | ![Image.png](image1/heart2.png) |
+| What attributes Increases the occurrence of Heart Disease| ![Image.png](image1/heart3.png) |
 
 
 [Jupyter Notebook](./HR_Analytics.ipynb)
