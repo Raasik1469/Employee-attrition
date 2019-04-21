@@ -23,7 +23,6 @@ Database contains 76 attributes, but all published experiments refer to using a 
 | `THAL` | thalassemia-- 3 = normal; 6 = fixed defect; 7 = reversable defect |
 
 
-
 ## PROJECT ANALYSIS
 | Title| Analysis |
 | ------- | --- | --- | 
@@ -31,5 +30,15 @@ Database contains 76 attributes, but all published experiments refer to using a 
 | Sex Type and Age is associated with Heart Disease | ![image.png](Image1/heart4.png) |
 | What attributes Increases the occurrence of Heart Disease 1 | ![image.png](Image1/heart5.png) ![image.png](Image1/heart6.png) |
 | How attributes are associated with distribution of ages | ![image.png](Image1/heart7.png) ![image.png](Image1/heart8.png) 
+
+
+## ACCURACY OF MODELS
+![image.png](Image1/heart9.png)
+
+## CONFUSION MATRIX FOR MODELS
+![image.png](Image1/heart11.png)
+
+## AUC_ROC CURVE
+![image.png](Image1/heart12.png)
 
 [Jupyter Notebook](./Heart_Disease_Project_2.ipynb)
